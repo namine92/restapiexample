@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">restApiexample</string>
+    <string name="joke_button">Get a joke from the API</string>
+
+</resources>
